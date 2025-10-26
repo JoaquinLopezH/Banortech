@@ -1,0 +1,24 @@
+{
+  "demo_personal": {
+    "username": "demo_personal",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "personal@banorte.com",
+    "nombre_completo": "Usuario Demo Personal",
+    "tipo_cuenta": "personal",
+    "id_usuario": 1,
+    "empresa_id": null,
+    "fecha_registro": "2025-10-25T13:55:33.230871",
+    "ultimo_acceso": "2025-10-26T07:41:34.647760"
+  },
+  "demo_empresa": {
+    "username": "demo_empresa",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "empresa@banorte.com",
+    "nombre_completo": "Empresa Demo S.A.",
+    "tipo_cuenta": "empresa",
+    "id_usuario": null,
+    "empresa_id": "E016",
+    "fecha_registro": "2025-10-25T13:55:33.230878",
+    "ultimo_acceso": "2025-10-26T07:14:09.603514"
+  }
+}
